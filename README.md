@@ -14,11 +14,11 @@ cd Recom_Training_Project
 
 4. Download raw data from the data source link and place in "datasets" directory
 
-Install virtualenv
+    Install virtualenv
 
-pip install virtualenv
+    pip install virtualenv
 
-virtualenv ItemRecom
+    virtualenv ItemRecom
 
 5. Activate it by running:
 ItemRecom/Scripts/activate
