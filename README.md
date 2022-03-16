@@ -34,4 +34,5 @@ pip3 install -r requirements.txt
 
 1. Use main.py to preprocess, train and save files.
     python main.py
-2. Use similar_items.pkl Model file to get Item Recommendation
+2. Use model/similar_items.pkl Model file to get Item Recommendation
+
